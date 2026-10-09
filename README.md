@@ -1,6 +1,6 @@
 # Examen práctico 3 de 3 — Caché y límite de peticiones (Redis)
 
-Este es uno de los **tres repositorios** del examen práctico para el puesto de **Desarrollador Backend Junior**. Los otros dos son `examen-pedidos` (SQL Server) y `examen-visitas` (MongoDB).
+Este es uno de los **tres repositorios** del examen práctico para el puesto de **Desarrollador Backend Junior**. Los otros dos son [`hcrm-examen-pedidos`](https://github.com/hansa-examenes/hcrm-examen-pedidos) (SQL Server) y [`hcrm-examen-visitas`](https://github.com/hansa-examenes/hcrm-examen-visitas) (MongoDB).
 
 ## Reglas generales (iguales para los 3 repositorios)
 
@@ -14,8 +14,12 @@ Este es uno de los **tres repositorios** del examen práctico para el puesto de 
 
 ### Entrega
 
-1. Sube cada repositorio a tu GitHub (público, o privado dándonos acceso).
-2. Envía los 3 enlaces antes de la fecha indicada en el correo.
+1. **Crea tu copia con "Use this template"** (botón verde arriba a la derecha → *Create a new repository*). **No hagas fork.**
+   - *Owner:* tu cuenta de GitHub. *Repository name:* el mismo nombre de este repositorio.
+   - *Visibility:* **Private**.
+2. **Invita a `Sergio-Al` como colaborador** en cada repositorio: *Settings → Collaborators → Add people*.
+3. Trabaja en tu repositorio y sube tus commits (`git push`) a medida que avanzas.
+4. **Responde el correo del examen con los 3 enlaces** antes de la fecha y hora indicadas. Evaluaremos el último commit subido antes de ese correo.
 
 ## Requisitos
 
